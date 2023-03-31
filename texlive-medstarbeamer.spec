@@ -1,6 +1,6 @@
 Name:		texlive-medstarbeamer
 Version:	38828
-Release:	1
+Release:	2
 Summary:	Beamer document class for MedStar Health Research Institute
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/medstarbeamer
