@@ -3,7 +3,7 @@ Version:	38828
 Release:	2
 Summary:	Beamer document class for MedStar Health Research Institute
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/medstarbeamer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/medstarbeamer
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/medstarbeamer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/medstarbeamer.doc.r%{version}.tar.xz
